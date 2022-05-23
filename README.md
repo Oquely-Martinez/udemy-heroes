@@ -7,3 +7,8 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 =======
 ## Estos cambios son nuevos desde GitHub
 >>>>>>> 1804187e431ac125907f12be883004bbd0ffb8d9
+
+# 1
+##2
+###3
+####4
